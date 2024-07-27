@@ -2,3 +2,6 @@ tests
 scripts
 .vscode
 Source
+.editorconfig
+.eslintignore
+.eslintrc.json
