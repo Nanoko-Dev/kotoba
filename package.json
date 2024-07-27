@@ -1,6 +1,6 @@
 {
   "name": "@nanoko/kotoba",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Nanoko lightweight express framework used for backend services and Nanoko!",
   "scripts": {
     "build": "tsc",
@@ -14,16 +14,16 @@
   "author": "Nanoko Dev",
   "license": "MIT",
   "repository": {
-   "url": "https://github.com/Nanoko-Dev/kotoba"
+    "url": "https://github.com/Nanoko-Dev/kotoba"
   },
   "keywords": [
-   "discord",
-   "express",
-   "kotoba",
-   "nanoko",
-   "@nanoko/kotoba",
-   "backend",
-   "automod"
+    "discord",
+    "express",
+    "kotoba",
+    "nanoko",
+    "@nanoko/kotoba",
+    "backend",
+    "automod"
   ],
   "dependencies": {
     "@types/express": "^4.17.21",
