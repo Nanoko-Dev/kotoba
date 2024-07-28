@@ -1,6 +1,6 @@
 {
   "name": "@nanoko/kotoba",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The Nanoko lightweight express framework used for backend services and Nanoko!",
   "scripts": {
     "build": "tsc",
@@ -9,8 +9,8 @@
     "pb": "yarn publish --access public",
     "start": "node tests/test.js"
   },
-  "types": "dist/Source/index.d.ts",
-  "main": "dist/Source/index.js",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
   "author": "Nanoko Dev",
   "license": "MIT",
   "repository": {
